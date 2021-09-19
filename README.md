@@ -5,7 +5,6 @@
 There's not a single field in Computer Science that I'm interested in, hence this profile is made of pure randomness and code 🤪.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/11707683/133944629-9eba5329-f1ec-4e7d-a5d7-5d72380b9c95.gif" alt="cat-typing-fast" width=300 height=300 />
   <img src="https://user-images.githubusercontent.com/11707683/133944872-3017017d-74de-491f-84fd-e38ef1724f4b.gif" alt="cat-debugging" width=300 height=300/>
   <img src="https://user-images.githubusercontent.com/11707683/133944767-dea7228b-5c75-4cc2-b01f-80316b863fe8.gif" alt="cat-refactoring" width=300 height=300/>
 </div>
