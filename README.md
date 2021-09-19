@@ -22,7 +22,7 @@ Spoiler: Ralsei is not part of the game.
 
 # 🚧⛓️ I'm learning the blockchain and creating dapps!
 
-I'm currently participating to the ethOnline hackathon! I'll make the repository public as soon as the hackathon ends!
+I'm currently participating in the ethOnline hackathon! I'll make the repository public as soon as the hackathon ends!
 ![eth](https://user-images.githubusercontent.com/11707683/133945147-2e32af8e-03cd-41ec-990b-8fed73721886.gif)
 
 
