@@ -2,7 +2,7 @@
   <h1>Hi there 👋, welcome to my lab!</h1>
 </div>
 
-There's not a single field in Computer Science that I'm interested in, hence this profile is made of pure randomness and code 🤪.
+There's not a single field in Computer Science that I'm not interested in, hence this profile is made of pure randomness and code 🤪.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/11707683/133944872-3017017d-74de-491f-84fd-e38ef1724f4b.gif" alt="cat-debugging" width=300 height=300/>
